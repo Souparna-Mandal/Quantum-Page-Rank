@@ -1,0 +1,2 @@
+This is an implementation of the Quantum Page rank algorithm using the Hadammard Coin, trying to optimise it to match the results produced by the classical Quantum Page rank algorithm using Markov Chains.
+I have made a visualiser and simulator for the random walk and quantum walk algoriothm, and then demonstrated how they can be used on a graph to rank nodes on the basis of importance 
